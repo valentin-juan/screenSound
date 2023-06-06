@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eNKocm8Bc/JxmfluAS/xufj4UVc3GE+MzoUdcfYxaW4S0XjJnaiiILRTcVi8BP41RTUnxhPr9he1a+dYFTB4Aw==",
+  "dgSpecHash": "w7/Gj58IaHesdHTJf/h4syVgB6zXvGG9FpKYB1O/LW97uT7B5Tk3tZrQ+lHAJH1xb26DXpd2OtixHxXM7I/Ygg==",
   "success": true,
-  "projectFilePath": "/home/operador/projects/dotnet/screenSound/alura.csproj",
+  "projectFilePath": "C:\\Users\\Valen\\source\\repos\\valentin-juan\\screenSound\\alura.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

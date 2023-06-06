@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/operador/projects/dotnet/screenSound/alura.csproj": {}
+    "C:\\Users\\Valen\\source\\repos\\valentin-juan\\screenSound\\alura.csproj": {}
   },
   "projects": {
-    "/home/operador/projects/dotnet/screenSound/alura.csproj": {
+    "C:\\Users\\Valen\\source\\repos\\valentin-juan\\screenSound\\alura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/operador/projects/dotnet/screenSound/alura.csproj",
+        "projectUniqueName": "C:\\Users\\Valen\\source\\repos\\valentin-juan\\screenSound\\alura.csproj",
         "projectName": "alura",
-        "projectPath": "/home/operador/projects/dotnet/screenSound/alura.csproj",
-        "packagesPath": "/home/operador/.nuget/packages/",
-        "outputPath": "/home/operador/projects/dotnet/screenSound/obj/",
+        "projectPath": "C:\\Users\\Valen\\source\\repos\\valentin-juan\\screenSound\\alura.csproj",
+        "packagesPath": "C:\\Users\\Valen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valen\\source\\repos\\valentin-juan\\screenSound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/operador/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/operador/.dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
